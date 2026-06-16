@@ -8,6 +8,13 @@ I am redeveloping this software from the ground up. - As a case management softw
 
 I will update this with new page as my development continues. 
 
+*********************************************************************
+Rebuilding this non-existing software, it may have once been a project that did not make it to full fruition for an open source software... 
+The new software has been updated, fixed, secured and many features to come. Welcome to OmniCase. 
+
+We will have updated fork soon!
+
+
 #Updated: 6/15/2026
 
 <s>
