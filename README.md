@@ -1,3 +1,11 @@
+(Fixing a Broken abbadoned software, Takes Time, Dedication.) 
+
+This current release is a fork of the main non working and is not worth your time....
+
+However I am working on fixing this script the correct way and updateing the architecture behind it. 
+
+#Updated: 6/15/2026
+
 ## Welcome To Iuris-Soft
 
 #Iuris-Soft
