@@ -1,4 +1,4 @@
-(Fixing a Broken abbadoned software, Takes Time, Dedication.) 
+(Fixing a Mostly Broken & Abandoned outdated software, Takes Time, Dedication, & Personaliation) 
 
 This current release is a fork of the main non working and is not worth your time....
 
