@@ -1,13 +1,16 @@
-(Fixing a Mostly Broken & Abandoned outdated software, Takes Time, Dedication, & Personaliation) 
+(Fixing a Mostly Broken & Abandoned outdated software that never came to fruitation, Takes Time, Dedication, & Personaliation) 
 
-This current release is a fork of the main non working and is not worth your time....
+This current release is a fork was a start of broken insane codes with tons of spam, it was more of a demo, and nothing actually did anything. It was all broken. 
 
-However I am working on fixing this script the correct way and updateing the architecture behind it. 
+The features it claims below, is non existant.
+
+I am redeveloping this software from the ground up. - As a case management software. 
+
+I will update this with new page as my development continues. 
 
 #Updated: 6/15/2026
 
-## Welcome To Iuris-Soft
-
+<s>
 #Iuris-Soft
 
 ##Iuris is latin a term meaning legal, therefore Iuris-Soft!!! is an open-source legal management.
@@ -58,5 +61,7 @@ Manage your Contracts. Add Due Dates, Statuses and Closure Dates. Relate your dr
 
 <b><u>Intellectual Property</u></b><br/>
 Manage your IP Cases. Add Categories and Subcategories. Manage Renewals in all Countries. Add Reminders and Track expiry Dates. Related IP Cases to Legal Matters
+
+</s>
 
 
